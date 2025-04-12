@@ -1,0 +1,1 @@
+Erasable PROM, é uma evolução do PROM pois pode ser reescrita após sua gravação, porém o processo é lento e requer um equipamento externo para tal.

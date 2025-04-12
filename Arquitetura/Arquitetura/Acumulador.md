@@ -1,0 +1,1 @@
+O acumulador, registrador interno da [[ULA]], é encarregado de fazer a comunicação com os periféricos de entrada e saída do computador.

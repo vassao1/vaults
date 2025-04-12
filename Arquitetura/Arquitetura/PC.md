@@ -1,0 +1,2 @@
+O PC (program counter) é um registrador de uso dedicado da UC que é utilizado durante a etapa de busca da instrução.
+Ele é encarregado de armazenar o ponteiro da próxima instrução, mantendo assim o progresso sequencial do código instrução por instrução.

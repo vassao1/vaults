@@ -1,0 +1,2 @@
+A memória secundária é um armazenamento permanente. Ela foi adicionada posteriormente aos computadores para que os dados armazenados não fossem perdidos. Esse tipo de memória precisa suportar uma grande quantidade de dados, para que ela possa guardar todos os programas instalados e todos os arquivos do usuário.
+A CPU *não pode* endereçar a memória secundária diretamente, então para acontecer o processamento dos dados da memória secundárias, os dados são carregados para a memória primária pelo sistema operacional.

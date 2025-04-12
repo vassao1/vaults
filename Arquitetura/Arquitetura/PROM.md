@@ -1,0 +1,1 @@
+Programmable ROM, memória programável na fabricação, a única das memórias REALMENTE read-only.

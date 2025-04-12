@@ -1,0 +1,3 @@
+A unidade de controle da CPU é a "parte inteligente" da mesma, coordenando a operação do sistema, realizando o [[Ciclo BDE]] (busca, decodifica e executa) para coordenar a execução dos programas armazenados na memória, preparando a [[ULA]] para as operações necessárias e coordenando a leitura e escrita de dados.
+A UC tem dois registradores de uso dedicado dentro dela, sendo eles:
+O [[IR]] (registrador de instrução) e o [[PC]] (contador de programa), dois registradores que podem ser usados **APENAS** pela UC.

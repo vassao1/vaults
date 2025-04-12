@@ -1,0 +1,2 @@
+O banco de registradores é um conjunto de registradores de uso geral localizados dentro da CPU, por estarem diretamente conectados a CPU, os registradores podem ser acessados basicamente instantaneamente, muito melhor que a memória principal, porém, por terem um alto custo de produção, existem poucos na CPU, geralmente indo de 16 até 64 registradores, dependendo do processador.
+Geralmente utilizado para armazenar operandos, resultados temporários, basicamente valores usados MUITO frequentemente no programa.

@@ -1,0 +1,1 @@
+Double data rate SDRAM, tem o dobro de velocidade de uma DRAM, é usada na memória principal também, sendo o principal tipo usado atualmente.
