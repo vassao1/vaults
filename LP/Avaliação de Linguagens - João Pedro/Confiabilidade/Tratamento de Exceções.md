@@ -1,0 +1,1 @@
+Tratamento de exceção pode ser entendido como a habilidade de um programa de interceptar erros em tempo de execução, tomar medidas corretivas e então seguir.

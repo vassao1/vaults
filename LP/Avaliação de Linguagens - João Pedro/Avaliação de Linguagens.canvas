@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"1532c97157ecf0b1","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Critérios de Avaliação de Linguagens.md","x":-20,"y":-40,"width":400,"height":340,"color":"4"},
+		{"id":"570cc9c0c7674be5","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita.md","x":600,"y":-395,"width":400,"height":400,"color":"2"},
+		{"id":"974f0acfd52b3d68","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade.md","x":-20,"y":520,"width":400,"height":400,"color":"#ff00ff"},
+		{"id":"15275ab3421115f2","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Simplicidade Geral.md","x":-1160,"y":-1555,"width":400,"height":640,"color":"5"},
+		{"id":"f5287bd7a1e7fe1f","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Simplicidade e Ortogonalidade.md","x":529,"y":-1077,"width":471,"height":484,"color":"2"},
+		{"id":"328a301a4e679ca9","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Suporte a Abstração.md","x":1280,"y":-34,"width":400,"height":248,"color":"2"},
+		{"id":"0d9288de276ff392","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Tipos de Dados.md","x":-20,"y":-635,"width":400,"height":400,"color":"5"},
+		{"id":"6b02397e1bb1682c","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Ortogonalidade.md","x":-1560,"y":-674,"width":400,"height":479,"color":"5"},
+		{"id":"538fc83bc22dd4cb","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Verificação de Tipos.md","x":-640,"y":720,"width":400,"height":277,"color":"#ff00ff"},
+		{"id":"74b10ce93c8cf691","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Tratamento de Exceções.md","x":640,"y":797,"width":400,"height":200,"color":"#ff00ff"},
+		{"id":"4f493dad77c873ee","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Custo.md","x":-102,"y":1241,"width":564,"height":641,"color":"#ff00ff"},
+		{"id":"814237382f4097a7","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Legibilidade e Facilidade de Escrita.md","x":-640,"y":1176,"width":400,"height":291,"color":"#ff00ff"},
+		{"id":"827e5abd0c404626","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Utilização de Apelidos.md","x":640,"y":1176,"width":400,"height":160,"color":"#ff00ff"},
+		{"id":"ec01e2bc2b5a861f","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Explicação.md","x":-1960,"y":37,"width":400,"height":483,"color":"3"},
+		{"id":"a527ae08ce519b6a","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Struct.md","x":-2160,"y":-435,"width":400,"height":192,"color":"3"},
+		{"id":"d0e4c021599061a7","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade.md","x":-760,"y":-520,"width":480,"height":650,"color":"5"},
+		{"id":"6cd27ec31120c78d","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Legibilidade/Projeto da Sintaxe.md","x":-1360,"y":330,"width":480,"height":467,"color":"5"},
+		{"id":"b0c607b75176c670","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Expressividade.md","x":765,"y":279,"width":400,"height":400,"color":"2"},
+		{"id":"9873a72a8e2a6ef3","type":"file","file":"LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Construções Primitivas.md","x":1280,"y":-863,"width":558,"height":620,"color":"3"}
+	],
+	"edges":[
+		{"id":"028447259fa2d98a","fromNode":"1532c97157ecf0b1","fromSide":"left","toNode":"d0e4c021599061a7","toSide":"right","color":"5"},
+		{"id":"9fff036966054b51","fromNode":"1532c97157ecf0b1","fromSide":"right","toNode":"570cc9c0c7674be5","toSide":"left","color":"2"},
+		{"id":"c67f5706d139e506","fromNode":"1532c97157ecf0b1","fromSide":"bottom","toNode":"974f0acfd52b3d68","toSide":"top","color":"6"},
+		{"id":"4616ba6f5159d099","fromNode":"d0e4c021599061a7","fromSide":"left","toNode":"15275ab3421115f2","toSide":"bottom","color":"5"},
+		{"id":"d494843472986912","fromNode":"d0e4c021599061a7","fromSide":"left","toNode":"6b02397e1bb1682c","toSide":"right","color":"5"},
+		{"id":"0207984d2935d8ea","fromNode":"6b02397e1bb1682c","fromSide":"bottom","toNode":"ec01e2bc2b5a861f","toSide":"right","color":"3"},
+		{"id":"5cb34f2545a25afe","fromNode":"6b02397e1bb1682c","fromSide":"left","toNode":"a527ae08ce519b6a","toSide":"right","color":"3"},
+		{"id":"c4c52e974313d82e","fromNode":"d0e4c021599061a7","fromSide":"top","toNode":"0d9288de276ff392","toSide":"top","color":"5"},
+		{"id":"4accfd61a57cb44a","fromNode":"d0e4c021599061a7","fromSide":"bottom","toNode":"6cd27ec31120c78d","toSide":"top","color":"5"},
+		{"id":"730dff8b1d20e549","fromNode":"570cc9c0c7674be5","fromSide":"top","toNode":"f5287bd7a1e7fe1f","toSide":"bottom","color":"2"},
+		{"id":"f5579cadc81c22d0","fromNode":"570cc9c0c7674be5","fromSide":"bottom","toNode":"b0c607b75176c670","toSide":"top","color":"2"},
+		{"id":"b024c592be82d9cb","fromNode":"570cc9c0c7674be5","fromSide":"right","toNode":"328a301a4e679ca9","toSide":"left","color":"2"},
+		{"id":"e56778b4f83994e1","fromNode":"f5287bd7a1e7fe1f","fromSide":"right","toNode":"9873a72a8e2a6ef3","toSide":"left","color":"3"},
+		{"id":"661abfde935e3bd6","fromNode":"974f0acfd52b3d68","fromSide":"left","toNode":"538fc83bc22dd4cb","toSide":"right","color":"#ff00ff"},
+		{"id":"595274a6df70d4e2","fromNode":"974f0acfd52b3d68","fromSide":"right","toNode":"74b10ce93c8cf691","toSide":"left","color":"#ff02ff"},
+		{"id":"f2b7ffcc9f5b29f2","fromNode":"974f0acfd52b3d68","fromSide":"bottom","toNode":"827e5abd0c404626","toSide":"top","color":"#ff00ff"},
+		{"id":"1b9cbbe9c48bd9e4","fromNode":"974f0acfd52b3d68","fromSide":"bottom","toNode":"4f493dad77c873ee","toSide":"top","color":"#ff00ff"},
+		{"id":"911e317adb3efef3","fromNode":"974f0acfd52b3d68","fromSide":"bottom","toNode":"814237382f4097a7","toSide":"top","color":"#ff00ff"}
+	]
+}

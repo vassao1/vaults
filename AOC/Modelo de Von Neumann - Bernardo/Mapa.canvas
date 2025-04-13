@@ -5,7 +5,6 @@
 		{"id":"8303e65c641c17f2","type":"file","file":"PC.md","x":360,"y":1200,"width":400,"height":320,"color":"2"},
 		{"id":"78b3e92c762ebf59","type":"file","file":"Acumulador.md","x":-880,"y":1290,"width":400,"height":200,"color":"3"},
 		{"id":"71be04d43f5b6698","type":"file","file":"IR.md","x":920,"y":640,"width":425,"height":440,"color":"2"},
-		{"id":"c68d4601ede3850c","type":"file","file":"CPU.md","x":-174,"y":720,"width":400,"height":280,"color":"#f1f500"},
 		{"id":"744a4283c640b237","type":"file","file":"ULA.md","x":-360,"y":1080,"width":586,"height":562,"color":"3"},
 		{"id":"c05c65f47cf7e249","type":"file","file":"Ciclo BDE.md","x":360,"y":-608,"width":876,"height":1141,"color":"2"},
 		{"id":"62e6cfd732f4d15a","type":"file","file":"Modelo de Von Neumann.md","x":-211,"y":-160,"width":474,"height":693,"color":"6"},
@@ -16,10 +15,11 @@
 		{"id":"649ac8b5403462c1","type":"file","file":"SRAM.md","x":-299,"y":-1401,"width":400,"height":292,"color":"5"},
 		{"id":"fb063b6043038e93","type":"file","file":"DRAM.md","x":-858,"y":-1287,"width":400,"height":178,"color":"5"},
 		{"id":"15d6190aa6938739","type":"file","file":"DDR.md","x":-858,"y":-1538,"width":400,"height":175,"color":"5"},
-		{"id":"17fa08bd72ef95ab","x":-1422,"y":-1197,"width":400,"height":177,"color":"5","type":"file","file":"PROM.md"},
-		{"id":"5a3161ea043c45e1","x":-1422,"y":-1468,"width":400,"height":210,"color":"5","type":"file","file":"EPROM.md"},
-		{"id":"8308e8f041d3a737","x":-1422,"y":-1744,"width":400,"height":206,"color":"5","type":"file","file":"EEPROM.md"},
-		{"id":"311d4de353b9432c","x":-1422,"y":-1981,"width":400,"height":167,"color":"5","type":"file","file":"FlashROM.md"}
+		{"id":"17fa08bd72ef95ab","type":"file","file":"PROM.md","x":-1422,"y":-1197,"width":400,"height":177,"color":"5"},
+		{"id":"5a3161ea043c45e1","type":"file","file":"EPROM.md","x":-1422,"y":-1468,"width":400,"height":210,"color":"5"},
+		{"id":"8308e8f041d3a737","type":"file","file":"EEPROM.md","x":-1422,"y":-1744,"width":400,"height":206,"color":"5"},
+		{"id":"311d4de353b9432c","type":"file","file":"FlashROM.md","x":-1422,"y":-1981,"width":400,"height":167,"color":"5"},
+		{"id":"c68d4601ede3850c","type":"file","file":"CPU.md","x":-174,"y":720,"width":400,"height":280,"color":"#f1f500"}
 	],
 	"edges":[
 		{"id":"74424b57074553af","fromNode":"62e6cfd732f4d15a","fromSide":"bottom","toNode":"c68d4601ede3850c","toSide":"top"},

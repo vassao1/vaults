@@ -1,0 +1,1 @@
+Consiste em ter um ou mais métodos(ou nomes) distintos para fazer referencia à mesma área da memória.

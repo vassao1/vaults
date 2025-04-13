@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "7aa1bc620de246ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "584459daeb1b6f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15ddb19d231b7cb1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "LP/Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
+                "viewState": {
+                  "x": -95.42663332724624,
+                  "y": 327.43279132791326,
+                  "zoom": -2.356960654061836
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Avaliação de Linguagens"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc21009ae2dc1f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "52cac4348c558229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6342f01fc3e8c646",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0763b314528e3286",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "22a8769bb16b8c93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "252c1cf45486c615",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa8aed04c85eb1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9509642b6fe471",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LP/Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Avaliação de Linguagens"
+            }
+          },
+          {
+            "id": "47c0dd8d8e3f5c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LP/Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Avaliação de Linguagens"
+            }
+          },
+          {
+            "id": "f2d5cbe6ec2c0709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd44ac09e66f37fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LP/Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Avaliação de Linguagens"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "15ddb19d231b7cb1",
+  "lastOpenFiles": [
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Verificação de Tipos.md",
+    "LP/Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Utilização de Apelidos.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Suporte a Abstração.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita.md",
+    "AOC/Modelo de Von Neumann - Bernardo/Mapa.canvas",
+    "LP/Avaliação de Linguagens - João Pedro/Critérios de Avaliação de Linguagens.md",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Custo.md",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Legibilidade e Facilidade de Escrita.md",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade.md",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade/Tratamento de Exceções.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Expressividade.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Simplicidade e Ortogonalidade.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita/Construções Primitivas.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Ortogonalidade.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Projeto da Sintaxe.md",
+    "Sem título.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Tipos de Dados.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Simplicidade Geral.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Explicação.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade/Struct.md",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade.md",
+    "LP/Avaliação de Linguagens - João Pedro/Facilidade de Escrita",
+    "LP/Avaliação de Linguagens - João Pedro/Confiabilidade",
+    "LP/Avaliação de Linguagens - João Pedro/Legibilidade",
+    "AOC/Modelo de Von Neumann - Bernardo/Hierarquia de memórias.md",
+    "LP/Avaliação de Linguagens - João Pedro",
+    "LP",
+    "AOC/Modelo de Von Neumann - Bernardo/Banco de registradores.md",
+    "AOC/Modelo de Von Neumann - Bernardo/Ciclo BDE.md",
+    "AOC/Modelo de Von Neumann - Bernardo/Modelo de Von Neumann.md",
+    "AOC/Modelo de Von Neumann - Bernardo/Memória primária.md"
+  ]
+}

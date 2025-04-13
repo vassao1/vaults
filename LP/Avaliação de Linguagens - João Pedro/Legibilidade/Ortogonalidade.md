@@ -1,0 +1,7 @@
+- Possibilidade de combinar entre si os componentes básicos da linguagem para construir estruturas de controle e dados.
+	- Um [[Struct]] pode ser valores de retorno de uma função, um vetor não.
+	- Um vetor pode ser valor de retorno se estiver encapsulado por um struct.
+	- [[Explicação]]
+- Ortogonalidade se relaciona com a simplicidade:
+	- Quanto mais ortogonal, menor é o número de exceções;
+	- Menos exceções aumentam o grau de aprendizagem da linguagem.
