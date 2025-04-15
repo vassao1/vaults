@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "a364583aeb0a68fb",
+    "id": "23c1a104cf6f4b2b",
     "type": "split",
     "children": [
       {
-        "id": "c500878b9625a2f3",
+        "id": "7a6733bf3580011d",
         "type": "tabs",
         "children": [
           {
-            "id": "e06a7b8be33558f4",
+            "id": "786075b97d8093e0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
                 "viewState": {
-                  "x": -15.520135433551104,
-                  "y": 407.59622613612794,
-                  "zoom": -2.2931753443568605
+                  "x": -337.1541165328352,
+                  "y": 46.729165004347465,
+                  "zoom": -2.293175344356861
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "186f0ccb2e45bee4",
+    "id": "e768ec3b8ed063ac",
     "type": "split",
     "children": [
       {
-        "id": "4b8cef0a64953b0c",
+        "id": "7a86049cd25abee7",
         "type": "tabs",
         "children": [
           {
-            "id": "3db6281641cdcedc",
+            "id": "e8f6e80bd6d19d51",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "ddaa3e62a45a814b",
+            "id": "2602fd49fcc34094",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,17 +64,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "eef1f872c4992bf7",
+            "id": "dce2792f14ed6983",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -84,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "91cc7b21ccd8b8d2",
+    "id": "441157ca2f3496b3",
     "type": "split",
     "children": [
       {
-        "id": "997ec24c86b72ec2",
+        "id": "43d0c453b6ae5261",
         "type": "tabs",
         "children": [
           {
-            "id": "e7504169c42ce52f",
+            "id": "0e7690f2beef398e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Avaliação de Linguagens"
+              "title": "Links inversos para Avaliação de Linguagens"
             }
           },
           {
-            "id": "be4db155eeac5ca7",
+            "id": "e39b9111fc4d7ce7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avaliação de Linguagens"
+              "title": "Links de saída para Avaliação de Linguagens"
             }
           },
           {
-            "id": "6cb8c00cd2e2aa1d",
+            "id": "e3e20271dd4ff75c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,18 +140,18 @@
             }
           },
           {
-            "id": "1efdb40fc8b68561",
+            "id": "e53ffc677927ffb6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Avaliação de Linguagens - João Pedro/Avaliação de Linguagens.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação de Linguagens"
+              "title": "Sumário de Avaliação de Linguagens"
             }
           }
         ]
@@ -171,6 +171,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e06a7b8be33558f4",
-  "lastOpenFiles": []
+  "active": "786075b97d8093e0",
+  "lastOpenFiles": [
+    "Avaliação de Linguagens - João Pedro/Critérios de Avaliação de Linguagens.md",
+    "Avaliação de Linguagens - João Pedro/Facilidade de Escrita.md"
+  ]
 }

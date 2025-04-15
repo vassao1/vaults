@@ -1,27 +1,27 @@
 {
   "main": {
-    "id": "a364583aeb0a68fb",
+    "id": "14a54c907a809433",
     "type": "split",
     "children": [
       {
-        "id": "c500878b9625a2f3",
+        "id": "1e14c387c5c16b86",
         "type": "tabs",
         "children": [
           {
-            "id": "e06a7b8be33558f4",
+            "id": "6f822762e733a364",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Sem título.canvas",
                 "viewState": {
-                  "x": -15.520135433551104,
-                  "y": 407.59622613612794,
-                  "zoom": -2.2931753443568605
+                  "x": 504,
+                  "y": -533.5,
+                  "zoom": -2.134149717417661
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Avaliação de Linguagens"
+              "title": "Sem título"
             }
           }
         ]
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "186f0ccb2e45bee4",
+    "id": "96bb4c928a8a2650",
     "type": "split",
     "children": [
       {
-        "id": "4b8cef0a64953b0c",
+        "id": "24f3f7e861e86aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "3db6281641cdcedc",
+            "id": "de6fc0c40a2d84ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "ddaa3e62a45a814b",
+            "id": "60cf3b1a2c2e330e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,17 +64,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "eef1f872c4992bf7",
+            "id": "50b39e24d421576a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -84,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "91cc7b21ccd8b8d2",
+    "id": "987a6b202f3f1d51",
     "type": "split",
     "children": [
       {
-        "id": "997ec24c86b72ec2",
+        "id": "c3a490ad75dddeb5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7504169c42ce52f",
+            "id": "6475690c6055e262",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Avaliação de Linguagens"
+              "title": "Links inversos para Sem título"
             }
           },
           {
-            "id": "be4db155eeac5ca7",
+            "id": "3da35bbc3cc154a3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avaliação de Linguagens"
+              "title": "Links de saída para Sem título"
             }
           },
           {
-            "id": "6cb8c00cd2e2aa1d",
+            "id": "a142770cca18023f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,18 +140,18 @@
             }
           },
           {
-            "id": "1efdb40fc8b68561",
+            "id": "860eff2c3bf1736a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação de Linguagens"
+              "title": "Sumário de Sem título"
             }
           }
         ]
@@ -171,6 +171,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e06a7b8be33558f4",
-  "lastOpenFiles": []
+  "active": "de6fc0c40a2d84ae",
+  "lastOpenFiles": [
+    "Definição",
+    "SCM",
+    "CRM",
+    "BI",
+    "Sem título.md",
+    "ERP",
+    "Sem título.canvas",
+    "Bem-vindo.md",
+    "SCM/Integrações de um SCM.md",
+    "SCM/Ferramentas e Tecnologias SCM.md",
+    "SCM/Benefícios de um SCM.md",
+    "CRM/Funcionalidades Principais de um CRM.md",
+    "CRM/Tipos de CRM.md",
+    "CRM/Exemplos Reais de um CRM.md",
+    "CRM/Como escolher um CRM?.md",
+    "CRM/Benefícios de um CRM.md",
+    "BI/Exemplos Reais de um BI.md",
+    "BI/Desafios de um BI.md",
+    "BI/Arquitetura de um BI.md",
+    "BI/Benefícios de um BI.md",
+    "ERP/Integrações de um ERP.md",
+    "ERP/Exemplos Reais de um ERP.md",
+    "ERP/Desafios na Implementação de um ERP.md",
+    "ERP/Benefícios de um ERP.md",
+    "ERP/Módulos Comuns de um ERP.md",
+    "ERP/ERP.md",
+    "SCM/SCM.md",
+    "CRM/CRM.md",
+    "BI/BI.md",
+    "Definição/Processo de Desenvolvimento de um SC.md",
+    "Definição/Principais Tipos de SC.md",
+    "Sem título 1"
+  ]
 }
