@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"271e12b592c57547","type":"file","file":"Métodos de Implementação de Linguagens.md","x":880,"y":-9,"width":534,"height":400,"color":"2"},
+		{"id":"ca9135ba428dd5eb","type":"file","file":"Interpretação Pura.md","x":1640,"y":-63,"width":499,"height":509,"color":"4"},
+		{"id":"bd8e0ec2f903aced","type":"file","file":"Sistemas Híbridos.md","x":1640,"y":540,"width":499,"height":560,"color":"5"},
+		{"id":"9981d29c31d8c395","type":"file","file":"Compilação.md","x":1640,"y":-488,"width":499,"height":348,"color":"3"},
+		{"id":"f91b861e1bb1d2a1","x":2800,"y":-592,"width":571,"height":556,"color":"3","type":"file","file":"Fases do Processo de Compilação.md"},
+		{"id":"bc9f2285bc264a25","x":2280,"y":-475,"width":400,"height":322,"color":"3","type":"file","file":"Pré-Processadores.md"},
+		{"id":"aa110df6f22bf3d5","type":"file","file":"Trade-offs no Projeto de Linguagens.md","x":-160,"y":-178,"width":786,"height":738,"color":"1"}
+	],
+	"edges":[
+		{"id":"cb84763db445d14a","fromNode":"271e12b592c57547","fromSide":"right","toNode":"bd8e0ec2f903aced","toSide":"left","color":"5"},
+		{"id":"8a6bfb428231776e","fromNode":"271e12b592c57547","fromSide":"right","toNode":"ca9135ba428dd5eb","toSide":"left","color":"4"},
+		{"id":"04816bfef4fe0fa6","fromNode":"271e12b592c57547","fromSide":"right","toNode":"9981d29c31d8c395","toSide":"left","color":"3"},
+		{"id":"b258c09425085705","fromNode":"9981d29c31d8c395","fromSide":"right","toNode":"bc9f2285bc264a25","toSide":"left","color":"3"},
+		{"id":"248cff0b8c2ce56c","fromNode":"bc9f2285bc264a25","fromSide":"right","toNode":"f91b861e1bb1d2a1","toSide":"left","color":"3"}
+	]
+}

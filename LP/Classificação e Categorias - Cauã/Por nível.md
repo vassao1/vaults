@@ -1,0 +1,1 @@
+Esta classificação se refere ao **nível de abstração** da linguagem em relação ao hardware.

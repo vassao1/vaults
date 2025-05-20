@@ -1,0 +1,1 @@
+Essa classificação é histórica e mostra a evolução das linguagens ao longo do tempo.

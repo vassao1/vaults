@@ -1,37 +1,87 @@
 {
   "main": {
-    "id": "a364583aeb0a68fb",
+    "id": "89abe761d252449c",
     "type": "split",
     "children": [
       {
-        "id": "1a8a76c566e43fba",
+        "id": "4e3d9643575fb51d",
         "type": "tabs",
         "children": [
           {
-            "id": "da408da89ecdffd6",
+            "id": "782a1864eea9b73f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python (1991).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Python (1991)"
+            }
+          },
+          {
+            "id": "a66a44084fd516d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lua (1993).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lua (1993)"
+            }
+          },
+          {
+            "id": "50b59e2cd0d9823f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruby (1995).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruby (1995)"
+            }
+          },
+          {
+            "id": "99d6ac2015de1af0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 13454.23050455261,
+                  "y": 367.1661468177251,
+                  "zoom": -1.1999999999999997
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "186f0ccb2e45bee4",
+    "id": "3fe041b62251b0a8",
     "type": "split",
     "children": [
       {
-        "id": "4b8cef0a64953b0c",
+        "id": "9f637e1cfd91ea25",
         "type": "tabs",
         "children": [
           {
-            "id": "3db6281641cdcedc",
+            "id": "d5337a17d1e5d34b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +94,7 @@
             }
           },
           {
-            "id": "ddaa3e62a45a814b",
+            "id": "bd83f874d2c8bedd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +111,7 @@
             }
           },
           {
-            "id": "eef1f872c4992bf7",
+            "id": "ce0f7359ecc753cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +127,20 @@
     "width": 300
   },
   "right": {
-    "id": "91cc7b21ccd8b8d2",
+    "id": "edf8fb0dc53452ae",
     "type": "split",
     "children": [
       {
-        "id": "997ec24c86b72ec2",
+        "id": "40f60af1e29cb165",
         "type": "tabs",
         "children": [
           {
-            "id": "e7504169c42ce52f",
+            "id": "230aee1867020f10",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +150,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Avaliação de Linguagens"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "be4db155eeac5ca7",
+            "id": "dd35fd45703a0518",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avaliação de Linguagens"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "6cb8c00cd2e2aa1d",
+            "id": "2138c916e637645c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +183,18 @@
             }
           },
           {
-            "id": "1efdb40fc8b68561",
+            "id": "0d8c9463aae4c0bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avaliação de Linguagens.canvas",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Avaliação de Linguagens"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -164,6 +214,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3db6281641cdcedc",
-  "lastOpenFiles": []
+  "active": "99d6ac2015de1af0",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Lua (1993).md",
+    "Ruby (1995).md",
+    "JavaScript (1995).md",
+    "PHP (1995).md",
+    "Python (1991).md",
+    "Java (1990).md",
+    "Perl (1987).md",
+    "C++ (1980).md",
+    "Smalltalk (1980).md",
+    "Ada (1980).md",
+    "PROLOG (1972).md",
+    "C (1972).md",
+    "Pascal (1971).md",
+    "ALGOL 68.md",
+    "SIMULA 67.md",
+    "SNOBOL (1964) - StriNg Oriented and symBOlic LanguagE.md",
+    "APL (1960) - A Programming Language.md",
+    "PLI (1964).md",
+    "BASIC (1964).md",
+    "COBOL (1959) — COmmon Business Oriented Language.md",
+    "LISP (1958) — List Processing Language.md",
+    "FORTRAN (1957) — FORmula TRANslating System.md",
+    "Pseudolinguagens (1949–1954).md",
+    "Plankalkül (1945).md",
+    "C-Sharp (2000).md"
+  ]
 }

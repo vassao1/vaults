@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "c20302dc0e1f16db",
+    "type": "split",
+    "children": [
+      {
+        "id": "313c69552b62a7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2a7cdfaadc5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por nível.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Por nível"
+            }
+          },
+          {
+            "id": "9cea7dcbb7671da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baixo nível.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baixo nível"
+            }
+          },
+          {
+            "id": "3e5cda35e56e9c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Médio nível.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Médio nível"
+            }
+          },
+          {
+            "id": "36377c81511bb58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alto nível.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alto nível"
+            }
+          },
+          {
+            "id": "a510ab6830517dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por geração.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Por geração"
+            }
+          },
+          {
+            "id": "0c4ec95a37ced2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1ª Geração — Linguagem de Máquina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1ª Geração — Linguagem de Máquina"
+            }
+          },
+          {
+            "id": "26e076591a4d4bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2ª Geração — Assembly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2ª Geração — Assembly"
+            }
+          },
+          {
+            "id": "a7fa2ec7c9e8a980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3ª Geração — Linguagens de Alto Nível.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3ª Geração — Linguagens de Alto Nível"
+            }
+          },
+          {
+            "id": "767b18ae950b30e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4ª Geração — Linguagens Declarativas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4ª Geração — Linguagens Declarativas"
+            }
+          },
+          {
+            "id": "0ead66432b1c4295",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 230.7918024634354,
+                  "y": 55.96636466170082,
+                  "zoom": -0.3362109893691294
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "795c5b6988fb8f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4338fe76b07895b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca60acac841dddbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b18904cdb6e253b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53a3d725688b0c52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b451ea58c1b1995a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7647befae0d7ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b5339664ca86b43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "987456d1b7d1dee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "9fcc8b440525ad7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "48ef690217fdb9ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ead66432b1c4295",
+  "lastOpenFiles": [
+    "5ª Geração — Inteligência Artificial.md",
+    "4ª Geração — Linguagens Declarativas.md",
+    "3ª Geração — Linguagens de Alto Nível.md",
+    "2ª Geração — Assembly.md",
+    "1ª Geração — Linguagem de Máquina.md",
+    "Untitled.canvas",
+    "Baixo nível.md",
+    "Untitled 1.canvas",
+    "Médio nível.md",
+    "Alto nível.md",
+    "Por geração.md",
+    "Por nível.md"
+  ]
+}
