@@ -27,7 +27,7 @@
 		{"id":"f6452d9214f0e1cb","type":"file","file":"Escopo local.md","x":-1322,"y":311,"width":400,"height":155},
 		{"id":"9190a2aeab17556b","type":"file","file":"Escopo não local.md","x":-1322,"y":582,"width":400,"height":138},
 		{"id":"2187a33a653a9286","type":"file","file":"Escopo global.md","x":-1322,"y":19,"width":400,"height":152},
-		{"id":"2269d4d7c56d99a7","x":-1813,"y":19,"width":400,"height":336,"type":"file","file":"Tipos de escopo.md"}
+		{"id":"2269d4d7c56d99a7","x":-1912,"y":19,"width":499,"height":447,"type":"file","file":"Tipos de escopo.md"}
 	],
 	"edges":[
 		{"id":"2d14743594239a7d","fromNode":"792f3b27bf63e02d","fromSide":"top","toNode":"66e17d8d85ec2aaa","toSide":"bottom"},
