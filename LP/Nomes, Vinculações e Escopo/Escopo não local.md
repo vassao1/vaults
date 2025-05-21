@@ -1,0 +1,1 @@
+A variável é visível também fora do bloco de código ou função.

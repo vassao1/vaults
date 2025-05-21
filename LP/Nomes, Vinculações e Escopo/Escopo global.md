@@ -1,0 +1,1 @@
+Tipo especial de escopo, torna a variável acessível em todos os blocos de código e funções.

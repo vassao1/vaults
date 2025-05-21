@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "eaa1bdb46f501aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ee741bdbbe91fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d1f1d2358a299f1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -174.50181432087678,
+                  "y": 444.97233036718285,
+                  "zoom": -1.3088762875223625
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "828d6c358f33b74c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1081.8721918683173,
+                  "y": -3.737971676502182,
+                  "zoom": -1.3088762875223625
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bce6bc07db06876",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7ae2f0a09d5a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ece86ac1c748eea7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed6cf6b848dae5d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cba99042c97c2613",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44b1b196f0d87d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc41d2995a7f64c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e823200efc6e6c07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "5f7ca92d55721bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UC"
+            }
+          },
+          {
+            "id": "0c4cb658e886d81b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab851e5f1ac2fe83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "828d6c358f33b74c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Tipos de escopo.md",
+    "Escopo não local.md",
+    "Escopo global.md",
+    "Tempo de vida por monte dinâmico implícito.md",
+    "Escopo local.md",
+    "Tempo de vida dinâmico da pilha.md",
+    "Tempo de vida estático.md",
+    "Tempo de vida por monte dinâmico explícito.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Variável.md",
+    "Vinculação.md",
+    "Tempo de vida.md",
+    "Tempo de execução.md",
+    "Tempo de carregamento.md",
+    "Tempo de compilação.md",
+    "Tempo de implementação.md",
+    "Tempo de projeto de linguagem.md",
+    "Tempo de vinculação.md",
+    "Valor.md",
+    "Vinculação de tipo.md",
+    "Endereço.md",
+    "Tipo.md",
+    "Escopo.md",
+    "Nome.md",
+    "Mapa.canvas"
+  ]
+}

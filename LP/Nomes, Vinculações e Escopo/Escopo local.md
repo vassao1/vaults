@@ -1,0 +1,1 @@
+A variável é visível apenas dentro daquele bloco ou função.

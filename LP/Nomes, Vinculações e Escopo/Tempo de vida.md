@@ -1,0 +1,1 @@
+O tempo de vida de uma variável é o tempo de duração de vinculação de uma variável a uma célula de memória particular.
